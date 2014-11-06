@@ -16,7 +16,7 @@ import weka.core.Instances;
  
 /**
  * Main class to use the TTOSOM
- * @author Gonzalo Maldonado
+ * @author Gonzalo Maldonado, Cesar Astudillo, Franzel Madariaga, Jorge Poblete.
  */
 public class Main {
  
